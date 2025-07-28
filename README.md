@@ -1,4 +1,4 @@
-# Detecçào de fraudes
+# Detecção de fraudes
 
 fonte: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
